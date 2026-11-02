@@ -1,6 +1,6 @@
 package storage;
 
-import exceptions.FigureFileFormatException;
+import main.java.exceptions.FigureFileFormatException;
 import exceptions.InvalidFigureParametrException;
 import geometry2d.Circle;
 import geometry2d.Figure;

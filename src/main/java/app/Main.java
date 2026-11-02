@@ -1,6 +1,6 @@
 package app;
 
-import exceptions.FigureFileFormatException;
+import main.java.exceptions.FigureFileFormatException;
 import exceptions.InvalidFigureParametrException;
 import geometry2d.Figure;
 import geometry3d.Cylinder;
@@ -9,7 +9,6 @@ import storage.SerializedFigureStorage;
 import storage.TextFigureStorage;
 
 import java.io.IOException;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
