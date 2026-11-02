@@ -1,6 +1,6 @@
 package storage;
 
-import exceptions.FigureFileFormatException;
+import main.java.exceptions.FigureFileFormatException;
 import geometry2d.Figure;
 import java.nio.file.Path;
 import java.util.List;

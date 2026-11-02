@@ -33,6 +33,6 @@ public class Cylinder {
 
     @Override
     public String toString(){
-        return "Cylinder{base=" + base.area() + " height=" + height + "}";
+        return "Cylinder{base=" + base.toString() + ", height=" + height + "}";
     }
 }
